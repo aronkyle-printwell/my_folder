@@ -7,3 +7,5 @@ trick msg
 hello, world
 
 Clear button features
+
+somebuttonfunction 
